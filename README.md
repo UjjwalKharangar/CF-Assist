@@ -1,1 +1,1 @@
-# CF-Assist
+This vscode extension allows you to view codeforces problems in vscode and also allows you to run sample test cases for the open problem.
